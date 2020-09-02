@@ -6,7 +6,7 @@ package creation.factory.abstractfactory;
  * @description
  */
 public class YmlSystemConfigParser implements ISystemConfigParser {
-    
+
     @Override
     public SystemConfig parse(String configText) {
         return null;
